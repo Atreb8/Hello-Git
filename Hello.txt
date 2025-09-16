@@ -1,4 +1,8 @@
 ara si
 Que tal?
 Una més
+<<<<<<< HEAD
 última prova
+=======
+baaassss
+>>>>>>> ca7fe11cf29dee0b9bcdd645bb9447da763772e2
